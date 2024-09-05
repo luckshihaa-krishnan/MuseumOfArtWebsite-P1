@@ -1,6 +1,8 @@
-https://luckshihaakrishnan-museumofartwebsite.onrender.com
+## MUSEUM OF ART - PART 1
 
-part 1
+#### Published URL : https://luckshihaakrishnan-museumofartwebsite.onrender.com
+
+
 
 
 - write basic greeting
@@ -9,4 +11,3 @@ part 1
 
 - write steps of running the application
 
-- give title
